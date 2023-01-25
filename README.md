@@ -1,2 +1,2 @@
-# M3-Clase1
-Repositorio Clase 1
+# M3_Clase1
+Introducción a HTML
